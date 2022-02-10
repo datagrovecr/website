@@ -4,7 +4,7 @@ home: true
 heroImage: /logo.png
 heroAlt: Logo image
 heroText: Better World Software
-tagline: Join us in beautiful San Jose, Costa Rica!
+tagline: Software that is good becuase it does good.
 actionText: We are Hiring
 actionLink: /jobs/
 features:
