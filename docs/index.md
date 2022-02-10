@@ -4,7 +4,7 @@ home: true
 heroImage: /logo.png
 heroAlt: Logo image
 heroText: Better World Software
-tagline: Software that is good becuase it does good.
+tagline: Software that is good - because it does good.
 actionText: We are Hiring
 actionLink: /jobs/
 features:
