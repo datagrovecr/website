@@ -17,3 +17,12 @@ You will also get practice with English, which for better or worse is the trade 
 
 Hit us up on Twitter, our DM's are open.
 [@datagrovecr](https://twitter.com/datagrovecr)
+
+## Application Process
+
+1. Obtain certificate of English proficiency ([Duolingo](https://englishtest.duolingo.com/) or similar)
+    <br>
+    <em>If you need assistance with taking the Duolingo English Test or have questions about a different English language proficiency certification, please contact <meagans@datagrove.com>.</em>
+2. Submit the [DatagroveCR Internship Application](https://forms.gle/U53hosi7DdjfgsJF7)
+3. Complete a virtual 30-minute personal interview
+4. Complete a virtual 30-minute technical interview
