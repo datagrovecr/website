@@ -6,6 +6,7 @@ You will help us build the next generation of software to support mercy and just
 
 When in school we want your focus to be on learning everything you can, so you will work 8-10 flexible hours per week for the internship. When your school is on break, come work with us 40 hours a week and write great software!
 
+The Datagrove internship is currently limited to students who have been accepted to a Computer Science or related field of study.
 
 ## Datagrove San Jose, Costa Rica
 
@@ -20,9 +21,10 @@ Hit us up on Twitter, our DM's are open.
 
 ## Application Process
 
-1. Obtain certificate of English proficiency ([Duolingo](https://englishtest.duolingo.com/) or similar)
+1. Be accepted to or enrolled in a university Computer Science program (or similar).
+2. Obtain certificate of English proficiency ([Duolingo](https://englishtest.duolingo.com/) or similar).
     <br>
-    <em>If you need assistance with taking the Duolingo English Test or have questions about a different English language proficiency certification, please contact <meagans@datagrove.com>.</em>
-2. Submit the [DatagroveCR Internship Application](https://forms.gle/U53hosi7DdjfgsJF7)
-3. Complete a virtual 30-minute personal interview
-4. Complete a virtual 30-minute technical interview
+    <em>If you need assistance with taking the Duolingo English Test or have questions about a different English language proficiency certification, please contact [Chelsea Dozier, San José Office Manager](mailto:chelsea@glocalade.org).</em>
+3. Submit the [DatagroveCR Internship Application](https://forms.gle/U53hosi7DdjfgsJF7).
+4. Complete a 30-minute in-person interview at the Datagrove San José office in Rohrmoser.
+
