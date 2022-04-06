@@ -27,4 +27,6 @@ Hit us up on Twitter, our DM's are open.
     <em>If you need assistance with taking the Duolingo English Test or have questions about a different English language proficiency certification, please contact [Chelsea Dozier, San José Office Manager](mailto:chelsea@glocalade.org).</em>
 3. Submit the [DatagroveCR Internship Application](https://forms.gle/U53hosi7DdjfgsJF7).
 4. Complete a 30-minute in-person interview at the Datagrove San José office in Rohrmoser.
+    <br />
+    _Interviews will be scheduled after we receive and review your application. If you anticipate difficulty attending an in-person interview, please contact [Chelsea Dozier, San José Office Manager](mailto:chelsea@glocalade.org)._
 
