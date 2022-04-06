@@ -1,6 +1,6 @@
 ## The DatagroveCR Internship Program
 
-The DatagroveCR Internship Program hires and provides tuition support for university students studying computer science. 
+The DatagroveCR Internship Program hires and provides tuition support for university students studying computer science in Costa Rica. 
 
 You will help us build the next generation of software to support mercy and justice in the world. Datagrove's first product is still in stealth mode, but ask us and we'd be happy to share.
 
