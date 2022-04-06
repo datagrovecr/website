@@ -4,7 +4,7 @@ The Datagrove internship program hires students and and provides tuition support
 
 You will help us build the next generation of software to support mercy and justice in the world. Datagrove's first product is still in stealth mode, but ask us and we'd be happy to share.
 
-When in school we want your focus to be on learning everything you can, so you will work 8-10 flexible hours per week for the internship. When your school is on break, come work with us 40 hours a week and write great software!
+When in school we want your focus to be on learning everything you can, so you will work 8-10 flexible hours per week at the DatagroveCR office in Rohmoser for the internship. When your school is on break, come work with us 40 hours a week and write great software!
 
 The Datagrove internship is currently limited to students who have been accepted to a Computer Science or related field of study.
 
@@ -21,12 +21,20 @@ Hit us up on Twitter, our DM's are open.
 
 ## Application Process
 
-1. Be accepted to or enrolled in a university Computer Science program (or similar).
-2. Obtain certificate of English proficiency ([Duolingo](https://englishtest.duolingo.com/) or similar).
-    <br>
-    <em>If you need assistance with taking the Duolingo English Test or have questions about a different English language proficiency certification, please contact [Chelsea Dozier, San José Office Manager](mailto:chelsea@glocalade.org).</em>
-3. Submit the [DatagroveCR Internship Application](https://forms.gle/U53hosi7DdjfgsJF7).
-4. Complete a 30-minute in-person interview at the Datagrove San José office in Rohrmoser.
+1. <strong>Be accepted to or enrolled in a university Computer Science program (or similar).</strong>
     <br />
-    _Interviews will be scheduled after we receive and review your application. If you anticipate difficulty attending an in-person interview, please contact [Chelsea Dozier, San José Office Manager](mailto:chelsea@glocalade.org)._
+
+2. <strong>Complete the [Duolingo](https://englishtest.duolingo.com/) English proficiency test.</strong>
+    <br />
+    _If you need assistance with taking the Duolingo English Test or have questions about a different English language proficiency certification, please contact [Chelsea Dozier, San José Office Manager](mailto:chelsea@glocalade.org)._
+    <br />
+
+3. <strong>Submit the [DatagroveCR Internship Application](https://forms.gle/U53hosi7DdjfgsJF7).</strong>
+    <br />
+    _Datagrove is committed to a holistic application process. We seek applicants who have a passion for programming and for creating a better world._
+    <br />
+
+4. <strong>Complete a 30-minute in-person interview at the Datagrove San José office in Rohrmoser (top candidates).</strong>
+    <br />
+    _We will contact final candidates to schedule interviews after we receive and review applications. If you anticipate difficulty attending an in-person interview, please contact [Chelsea Dozier, San José Office Manager](mailto:chelsea@glocalade.org)._
 
