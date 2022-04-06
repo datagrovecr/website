@@ -13,9 +13,8 @@ features:
 - title: Purpose
   details: We don't make games, we don't sell Ads. We build software to create the world we want to live in.
 - title: Family
-  details: You will be surrounded by people that want to learn and want to serve, just like you!
+  details: You will be surrounded by people who want to learn and want to serve, just like you!
 footer:  Copyright © 2022 Datagrove, Inc.
 ---
-
 
 <!-- [We are Hiring]([9b3243b]/jobs/) -->
