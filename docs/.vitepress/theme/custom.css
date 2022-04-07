@@ -4,10 +4,10 @@
 }
 
 @media only screen and (max-width: 640px) {
-	.table-col-two, th {
-		/* background-color: pink; */
-        max-width: 100%;
-	}
+    .table-col-one {
+        max-width: 100px;
+        height: auto;
+    }
 
     .table-col-two {
         /* background-color: green; */
