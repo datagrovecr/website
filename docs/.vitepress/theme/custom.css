@@ -2,3 +2,16 @@
     --c-brand: #3D5919;
     --c-brand-light: #50751f;
 }
+
+@media only screen and (max-width: 640px) {
+	.table-col-two, th {
+		/* background-color: pink; */
+        max-width: 100%;
+	}
+
+    .table-col-two {
+        /* background-color: green; */
+        max-width: 200px;
+    }
+
+}
