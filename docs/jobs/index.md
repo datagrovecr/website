@@ -1,28 +1,42 @@
-## The Datagrove Internship Program
+## The DatagroveCR Internship Program
 
-The Datagrove internship program hires students and and provides tuition support university students with relevant experience in San Jose, Costa Rica.
+The DatagroveCR Internship Program hires and provides tuition support for university students studying computer science in Costa Rica. 
 
 You will help us build the next generation of software to support mercy and justice in the world. Datagrove's first product is still in stealth mode, but ask us and we'd be happy to share.
 
-When in school we want your focus to be on learning everything you can, so you will work 8-10 flexible hours per week for the internship. When your school is on break, come work with us 40 hours a week and write great software!
+Hit us up on Twitter, our DM's are open.
+[@datagrovecr](https://twitter.com/datagrovecr)
 
+_The DatagroveCR internship is currently limited to students who have been accepted to a university Computer Science program in Costa Rica._
 
-## Datagrove San Jose, Costa Rica
+## The Internship
 
 **Full Stack Intern** - Hourly Pay :dollar:, Equipment :computer:, Tuition Support :mortar_board:
+
+When in school we want your focus to be on learning everything you can, so you will work 8-10 flexible hours per week at the DatagroveCR office in Rohmoser for the internship. When your school is on break, come work with us 40 hours a week and write great software!
 
 You will practice what you are learning in school building software for a better world. You will use Typescript, Go, Dart/Flutter, and Rust :crab:. Work on a team of interns where your input is welcome and needed. When you graduate, we hope you will stay!
 
 You will also get practice with English, which for better or worse is the trade language of computer science. English is your most important computer language, and the one that requires the most practice :100:
 
-Hit us up on Twitter, our DM's are open.
-[@datagrovecr](https://twitter.com/datagrovecr)
-
 ## Application Process
 
-1. Obtain certificate of English proficiency ([Duolingo](https://englishtest.duolingo.com/) or similar)
-    <br>
-    <em>If you need assistance with taking the Duolingo English Test or have questions about a different English language proficiency certification, please contact <meagans@datagrove.com>.</em>
-2. Submit the [DatagroveCR Internship Application](https://forms.gle/U53hosi7DdjfgsJF7)
-3. Complete a virtual 30-minute personal interview
-4. Complete a virtual 30-minute technical interview
+1. <strong>Be accepted to or enrolled in a university Computer Science program (or similar).</strong>
+    <br />
+
+2. <strong>Complete the [Duolingo](https://englishtest.duolingo.com/) English proficiency test.</strong>
+    <br />
+    _If you have questions about the Duolingo English Test or submitting a different English language proficiency certification, please contact [Chelsea Dozier, San José Office Manager](mailto:chelsea@glocalade.org)._
+    <br />
+
+3. <strong>Submit the [DatagroveCR Internship Application](https://forms.gle/U53hosi7DdjfgsJF7).</strong>
+    <br />
+    _Datagrove is committed to a holistic application process. We seek applicants who have a passion for programming and for creating a better world._
+    <br />
+
+4. <strong>Complete a 30-minute in-person interview (final candidates only).</strong>
+    <br />
+    _We will contact final candidates to schedule interviews after we receive and review applications. Interviews will be held at the Datagrove office in Rohrmoser (near the Stadium and Parque del Café). If you anticipate difficulty attending an in-person interview, please contact [Chelsea Dozier, San José Office Manager](mailto:chelsea@glocalade.org)._
+
+## Questions?
+Please contact [Chelsea Dozier, San José Office Manager](mailto:chelsea@glocalade.org) with any questions or general inquiries.
