@@ -14,10 +14,10 @@ export default defineConfig({
         sidebar: [
         ]
     },
-    build: {
-        rollupOptions: {
-            
-        }
-    }
+    // build: {
+    //     rollupOptions: {
+    //         external: []
+    //     }
+    // }
 
 })
