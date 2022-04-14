@@ -1,7 +1,7 @@
 ---
 home: true
 
-heroImage: /logo.png
+heroImage: /DGCR_NT.png
 heroAlt: Logo image
 heroText: Better World Software
 tagline: Software that is good - because it does good.
