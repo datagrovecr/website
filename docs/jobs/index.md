@@ -5,7 +5,7 @@ The DatagroveCR Internship Program hires and provides tuition support for univer
 You will help us build the next generation of software to support mercy and justice in the world. Datagrove's first product is still in stealth mode, but ask us and we'd be happy to share.
 
 Hit us up on Twitter, our DMs are open.
-[@datagrovecr](https://twitter.com/datagrovecr)
+<strong>[@datagrovecr](https://twitter.com/datagrovecr)</strong>
 
 _The DatagroveCR internship is currently limited to students who have been accepted to a university Computer Science program in Costa Rica._
 
