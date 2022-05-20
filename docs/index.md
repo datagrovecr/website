@@ -12,7 +12,7 @@ features:
   details: Come learn with us. We are learning how to create the software that the world needs right now.
 - title: Purpose
   details: We don't make games, we don't sell Ads. We build software to create the world we want to live in.
-- title: Family
+- title: Community
   details: You will be surrounded by people who want to learn and want to serve, just like you!
 footer:  Copyright © 2022 Datagrove, Inc.
 ---
