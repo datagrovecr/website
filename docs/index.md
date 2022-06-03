@@ -1,6 +1,16 @@
 ---
 home: true
 
+# theme: 
+#   palette:
+#     - scheme: default
+#       toggle: 
+#         icon: public/toggle.png
+#         name: Switch to dark mode
+#     - scheme: slate
+#       toggle:
+#         icon: public/toggle-switch-off-outline
+#         name: Switch to light mode
 heroImage: /DGCR_NT.png
 heroAlt: Logo image
 heroText: Better World Software

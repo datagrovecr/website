@@ -1,4 +1,11 @@
+<script setup>
+    import DarkMode from '../components/DarkMode.vue'
+</script>
+
 <div class="table-wrapper" markdown="block">
+
+<!-- <button>Dark Mode</button> -->
+<DarkMode />
 
 # About Datagrove Costa Rica
 
@@ -18,3 +25,11 @@ _We mean software that <strong>is</strong> good because it <strong>does</strong>
 :-------------------------------: | :-------------------:
 
 </div>
+
+<!-- <script>
+    function toggleMode() {
+        var element = document.body;
+        element.classList.toggle("dark");
+        console.log("button was clicked")
+    }
+</script> -->
