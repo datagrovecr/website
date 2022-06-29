@@ -1,4 +1,4 @@
-# website
+# Datagrove Costa Rica
 The website for [Datagrove Costa Rica](https://datagrovecr.com/) was created using VitePress.
 
 To install locally:
