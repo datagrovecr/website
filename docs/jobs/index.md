@@ -1,6 +1,6 @@
 ## The DatagroveCR Internship Program
 
-The DatagroveCR Internship Program hires and provides tuition support for university students studying computer science in Costa Rica. 
+The DatagroveCR Internship Program hires university students studying computer science in Costa Rica. Beginners with a passion for coding are welcome!
 
 You will help us build the next generation of software to support mercy and justice in the world. Datagrove's first product is still in stealth mode, but ask us and we'd be happy to share.
 
@@ -11,7 +11,7 @@ _The DatagroveCR internship is currently limited to students who have been accep
 
 ## The Internship
 
-**Full Stack Intern** - Hourly Pay :dollar:, Equipment :computer:, Tuition Support :mortar_board:
+**Full Stack Intern** - Hourly Pay :dollar:, Equipment :computer:, Learn to Code :mortar_board:
 
 When in school we want your focus to be on learning everything you can, so you will work 8-10 flexible hours per week at the DatagroveCR office in Rohmoser for the internship. When your school is on break, come work with us 40 hours a week and write great software!
 
