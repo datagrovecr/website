@@ -11,7 +11,13 @@ export default defineConfig({
         nav: [
             { text: 'Home', link: '/' },
             { text: 'About Us', link: '/about/' },
-            { text: 'Internships', link: '/jobs/' },
+            { 
+                text: 'Join Us', 
+                items: [
+                    { text: "Internships", link: '/jobs/' },
+                    // { text: "Full-Time Positions", link: '/jobs/' }
+                ],
+            },
         ],
         sidebar: [
         ]
