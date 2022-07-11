@@ -5,6 +5,14 @@
     --c-brand-light: #195955;
 }
 
+.block {
+    background-color: red;
+}
+
+#text {
+    background-color: red;
+}
+
 @media only screen and (max-width: 640px) {
     .table-wrapper {
         /* background-color: yellow; */

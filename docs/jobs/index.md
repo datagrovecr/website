@@ -1,9 +1,3 @@
-<script setup>
-    import DarkMode from '../components/DarkMode.vue'
-</script>
-
-<DarkMode />
-
 ## The DatagroveCR Internship Program
 
 The DatagroveCR Internship Program hires and provides tuition support for university students studying computer science in Costa Rica. 
