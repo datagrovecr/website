@@ -24,19 +24,16 @@ You will also get practice with English, which for better or worse is the trade 
 1. <strong>Be accepted to or enrolled in a university Computer Science program (or similar).</strong>
     <br />
 
-2. <strong>Complete the [Duolingo](https://englishtest.duolingo.com/) English proficiency test.</strong>
-    <br />
-    _If you have questions about the Duolingo English Test or submitting a different English language proficiency certification, please contact <strong>[Chelsea Dozier, San José Office Manager](mailto:chelsea@glocalade.org).</strong>_
-    <br />
-
-3. <strong>Submit the [DatagroveCR Internship Application](https://forms.gle/U53hosi7DdjfgsJF7).</strong>
+2. <strong>Submit the [DatagroveCR Internship Application](https://forms.gle/U53hosi7DdjfgsJF7) in English.</strong>
     <br />
     _Datagrove is committed to a holistic application process. We seek applicants who have a passion for programming and for creating a better world._
     <br />
 
-4. <strong>Complete a 30-minute in-person interview (final candidates only).</strong>
+3. <strong>Complete a 30-minute in-person interview in English (final candidates only).</strong>
     <br />
     _We will contact final candidates to schedule interviews after we receive and review applications. Interviews will be held at the Datagrove office in Rohrmoser (near the Stadium and Parque del Café). If you anticipate difficulty attending an in-person interview, please contact <strong>[Chelsea Dozier, San José Office Manager](mailto:chelsea@glocalade.org).</strong>_
+
+Please note: Learning, communication, and programming assignments for the Datagrove Internship Program will conducted in English. Appllicants should be at or near business proficiency in English to be selected. If you have any questions about English proficiency requirements, please contact <strong>[Chelsea Dozier, San José Office Manager](mailto:chelsea@glocalade.org)</strong>.
 
 ## Questions?
 Please contact <strong>[Chelsea Dozier, San José Office Manager](mailto:chelsea@glocalade.org)</strong> with any questions or general inquiries.
