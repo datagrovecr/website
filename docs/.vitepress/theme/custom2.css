@@ -10,6 +10,10 @@ th + th {
     width: 100%;
 }
 
+/* th:first-child {
+    background-color: red;
+} */
+
 h1 {
     color: var(--h1-text-color)
 }
@@ -119,7 +123,6 @@ footer, .page-footer {
 }
 
 .info.custom-block {
-    background-color: red;
     max-width: 80%;
     margin-left: 20%;
 }
@@ -178,6 +181,14 @@ footer, .page-footer {
 
     .contact-text {
         text-align: center;
+    }
+
+    .team-photo {
+        display: none;
+    }
+
+    th:first-child {
+        display: none;
     }
 
 }

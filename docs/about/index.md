@@ -20,10 +20,10 @@ Our partner, [Datagrove US](https://datagrove.com/), supports the Datagrove Cost
 
 <div class="about-table">
 
-|<div class="table-col-one" style="width: 150px"><img src="/td.jpeg" alt="Tomás Dozier" width="150" style="border-radius:5px"/></div>| <div class="table-col-two" style="width: 100%">[Tomás Dozier](https://twitter.com/datagrovecr), Costa Rica Country Director<br /></div>   |
+|<div class="table-col-one" style="width: 250px"><img src="/td.jpeg" alt="Tomás Dozier" width="250" style="border-radius:5px" class="team-photo"/></div>| <div class="table-col-two" style="width: 100%; padding: 10px;">[Tomás Dozier](https://twitter.com/datagrovecr), Costa Rica Country Director<br><br>Tomás is dedicated to connecting Costa Ricans to practical solutions using technology for a better world. An entrepreneur of new models, systems, and thinking, he is especially interested in environmental care, and how technology can assist in creating sustainable solutions.</div>   |
 :-------------------------------: | :-------------------:
 
-|<div class="table-col-one" style="width: 150px"><img src="/cd.jpeg" alt="Chelsea Dozier" width="150" style="border-radius:5px"/></div>|<div class="table-col-two" style="width: 100%">[Chelsea Dozier](https://twitter.com/datagrovecr), San José Office Manager<br /></div>    |
+|<div class="table-col-one" style="width: 250px"><img src="/cd.jpeg" alt="Chelsea Dozier" width="250" style="border-radius:5px" class="team-photo"/></div>|<div class="table-col-two" style="width: 100%, padding: 10px;">[Chelsea Dozier](https://twitter.com/datagrovecr), San José Office Manager<br><br>Chelsea is an out-of-the-box thinker, passionate about empowering people and discovering innovative, creative solutions. She manages business operations and the Datagrove Costa Rica Internship Program.</div>    |
 :-------------------------------: | :-------------------:
 
 </div>
