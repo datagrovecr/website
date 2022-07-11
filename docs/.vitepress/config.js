@@ -4,9 +4,6 @@ export default defineConfig({
     description: 'Software That Does Good',
     title: 'Datagrove Costa Rica',
     base: '/',
-    head: [
-        ['link', { rel: "icon", type: "image/png", href: "/public/favicon.ico" }],
-    ],
 
     themeConfig: {
         // Type is `DefaultTheme.Config`
