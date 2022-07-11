@@ -20,10 +20,10 @@ Our partner, [Datagrove US](https://datagrove.com/), supports the Datagrove Cost
 
 <div class="about-table">
 
-|<div class="table-col-one" style="width: 150px"><img src="/td.jpeg" alt="Tomás Dozier" width="150" style="border-radius:5px"/></div>| <div class="table-col-two" style="width: 100%">[Tomás Dozier](https://twitter.com/datagrovecr), Costa Rica Country Director<br /> <strong>_Director of EcoGuardianes, Educator_</strong></div>   |
+|<div class="table-col-one" style="width: 150px"><img src="/td.jpeg" alt="Tomás Dozier" width="150" style="border-radius:5px"/></div>| <div class="table-col-two" style="width: 100%">[Tomás Dozier](https://twitter.com/datagrovecr), Costa Rica Country Director<br /></div>   |
 :-------------------------------: | :-------------------:
 
-|<div class="table-col-one" style="width: 150px"><img src="/cd.jpeg" alt="Chelsea Dozier" width="150" style="border-radius:5px"/></div>|<div class="table-col-two" style="width: 100%">[Chelsea Dozier](https://twitter.com/datagrovecr), San José Office Manager<br /> <strong>_Educator_</strong></div>    |
+|<div class="table-col-one" style="width: 150px"><img src="/cd.jpeg" alt="Chelsea Dozier" width="150" style="border-radius:5px"/></div>|<div class="table-col-two" style="width: 100%">[Chelsea Dozier](https://twitter.com/datagrovecr), San José Office Manager<br /></div>    |
 :-------------------------------: | :-------------------:
 
 </div>
