@@ -31,9 +31,9 @@ You will also get practice with English, which for better or worse is the trade 
 
 3. <strong>Complete a 30-minute in-person interview in English (final candidates only).</strong>
     <br />
-    _We will contact final candidates to schedule interviews after we receive and review applications. Interviews will be held at the Datagrove office in Rohrmoser (near the Stadium and Parque del Café). If you anticipate difficulty attending an in-person interview, please contact <strong>[Chelsea Dozier, San José Office Manager](mailto:chelsea@glocalade.org).</strong>_
+    _We will contact final candidates to schedule interviews after we receive and review applications. Interviews will be held at the Datagrove office in Rohrmoser (near the Stadium and Parque del Café). If you anticipate difficulty attending an in-person interview, please contact <strong>[Chelsea Dozier, San José Office Manager](mailto:chelsea.dozer@datagrove.com).</strong>_
 
-Please note: Learning, communication, and programming assignments for the Datagrove Internship Program will conducted in English. Appllicants should be at or near business proficiency in English to be selected. If you have any questions about English proficiency requirements, please contact <strong>[Chelsea Dozier, San José Office Manager](mailto:chelsea@glocalade.org)</strong>.
+Please note: Learning, communication, and programming assignments for the Datagrove Internship Program will conducted in English. Appllicants should be at or near business proficiency in English to be selected. If you have any questions about English proficiency requirements, please contact <strong>[Chelsea Dozier, San José Office Manager](mailto:chelsea.dozer@datagrove.com)</strong>.
 
 ## Questions?
-Please contact <strong>[Chelsea Dozier, San José Office Manager](mailto:chelsea@glocalade.org)</strong> with any questions or general inquiries.
+Please contact <strong>[Chelsea Dozier, San José Office Manager](mailto:chelsea.dozer@datagrove.com)</strong> with any questions or general inquiries.
