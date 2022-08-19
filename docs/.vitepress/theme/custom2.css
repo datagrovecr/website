@@ -127,6 +127,13 @@ footer, .page-footer {
     margin-left: 20%;
 }
 
+.team-photo {
+    object-fit: cover;
+    border-radius: 5px;
+    width: 250px;
+    height: 250px;
+}
+
 @media only screen and (max-width: 640px) {
     .table-wrapper {
         /* background-color: yellow; */
