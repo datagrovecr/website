@@ -116,6 +116,7 @@ footer, .page-footer {
     align-items: center;
     height: 100%;
 }
+
 .contact-div {
     display: flex;
     flex-direction: column;
@@ -127,11 +128,50 @@ footer, .page-footer {
     margin-left: 20%;
 }
 
+/* .about-table {
+    width: 100%;
+} */
+
+.about-table {
+    /* background-color: pink; */
+    box-sizing: border-box;
+}
+
+.staff-bio {
+    box-sizing: border-box;
+    display: flex;
+    margin: 10px;
+    /* background-color: orange; */
+    padding: 5px;
+    border: 1px solid var(--bio-border-color);
+    align-items: center;
+}
+
+.table-col-one {
+    box-sizing: border-box;
+    width: 35%;
+    padding: 5px;
+    justify-content: center;
+    align-items: center;
+
+    /* background-color: green; */
+}
+
+.table-col-two {
+    width: 65%;
+    padding: 5px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
 .team-photo {
     object-fit: cover;
-    border-radius: 5px;
-    width: 250px;
-    height: 250px;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin: 15px; 
 }
 
 @media only screen and (max-width: 640px) {
@@ -147,18 +187,8 @@ footer, .page-footer {
         overflow-x: scroll;
     }
 
-    .table-col-two {
-        width: 100%;
-    }
-
     th:nth-child(even) {
         padding: 0;
-
-    }
-    
-    .table-col-one {
-        max-width: 100px;
-        height: auto;
     }
 
     .footer-text-div, .home .footer-text-div {
@@ -171,13 +201,13 @@ footer, .page-footer {
         display: inline;
         align-items: center;
         justify-content: center;
-
     }
 
     .contact-logo {
         /* border: 5px solid yellow; */
         height: 150px;
     }
+
     .contact-div {
         /* background-color: red; */
         display: flex;
@@ -190,12 +220,39 @@ footer, .page-footer {
         text-align: center;
     }
 
-    .team-photo {
+    /* .team-photo {
         display: none;
+    } */
+
+    /* th:first-child {
+        display: none;
+    } */
+
+    /* .about-table {
+        
+    } */
+
+    .staff-bio {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
     }
 
-    th:first-child {
-        display: none;
+    .table-col-one {
+        display: flex;
+        width: 100%;
+    }
+
+    .table-col-two {
+        padding: 0px;
+        margin: 0px;
+        width: 100%;
+    }
+
+    .team-photo {
+        min-width: 150px;
+        min-height: 150px;
+        border-radius: 50%;
     }
 
 }
@@ -226,6 +283,8 @@ footer, .page-footer {
         --h2-text-color: #435E1C;
 
         --contrast-link-color: #812458;
+
+        --bio-border-color: lightgray;
     }
 
     .green {
@@ -264,6 +323,8 @@ footer, .page-footer {
       --h2-text-color: #73A92F;
 
       --contrast-link-color: #2FA9A2;
+
+      --bio-border-color: black;
     }
 
     .blue {
