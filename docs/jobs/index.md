@@ -13,7 +13,7 @@ DatagroveCR hires Costa Ricans who would like to pursue a career in software dev
 
 You will work approximately 40 hours a week, primarily from our office in Rohmoser. Full-time employees receive a salary and are provided company equipment to use for coding work. Guidance, support, and community are provided, but the learning process will be highly self-directed. If that sounds exciting to you this opportunity might be a great fit!
 
-## Part-Time Positions with Datagrove Costa Rica
+## Part-Time Internships with Datagrove Costa Rica
 
 The Datagrove Costa Rica hires university students studying computer science in Costa Rica as part-time Trainee Developers. Beginners with a passion for coding are welcome!
 
@@ -27,7 +27,7 @@ _Trainee Developer positions are currently limited to students who have been acc
 
 ## Application Process
 
-1. <strong>Trainee Developer Applicants - Be accepted to or enrolled in a university Computer Science program (or similar).</strong>
+1. <strong>Trainee Developer Internship Applicants - Be accepted to or enrolled in a university Computer Science program (or similar).</strong>
     <br />
 
 2. <strong>Submit the [DatagroveCR Application](https://forms.gle/U53hosi7DdjfgsJF7) in English.</strong>
@@ -35,7 +35,7 @@ _Trainee Developer positions are currently limited to students who have been acc
     _Datagrove is committed to a holistic application process. We seek applicants who have a passion for programming and for creating a better world._
     <br />
 
-3. <strong>Complete a 30-minute in-person interview in English (final candidates only).</strong>
+3. <strong>Complete a one-hour in-person interview in English (final candidates only).</strong>
     <br />
     _We will contact final candidates to schedule interviews after we receive and review applications. Interviews will be held at the Datagrove office in Rohrmoser (near the Stadium and Parque del Café). If you anticipate difficulty attending an in-person interview, please contact <strong>[Chelsea Dozier, San José Office Manager](mailto:chelsea.dozier@datagrove.com).</strong>_
 
