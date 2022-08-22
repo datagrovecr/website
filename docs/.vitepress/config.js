@@ -14,8 +14,10 @@ export default defineConfig({
             { 
                 text: 'Join Us', 
                 items: [
-                    { text: "Full-Time Positions", link: '/jobs/' },
-                    { text: "Internships", link: '/jobs/' },
+                    { text: "Working for Datagrove Costa Rica", link: '/jobs/'},
+                    { text: "Full-Time Positions", link: '/jobs/#full-time' },
+                    { text: "Internships", link: '/jobs/#internships' },
+                    { text: "Application", link: '/jobs/#application'}
                 ],
             },
         ],

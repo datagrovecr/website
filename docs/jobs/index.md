@@ -7,13 +7,14 @@ Datagrove Costa Rica developers primarily use Typescript, Go, Dart/Flutter, and 
 Hit us up on Twitter, our DMs are open.
 <strong>[@datagrovecr](https://twitter.com/datagrovecr)</strong>
 
-## Full-Time Positions with Datagrove Costa Rica
+
+<h2 id="full-time">Full-Time Positions with Datagrove Costa Rica</h2>
 
 DatagroveCR hires Costa Ricans who would like to pursue a career in software development as Junior Developers. Previous experience (self-taught or formal course work) with coding is preferred, but not required.  
 
 You will work approximately 40 hours a week, primarily from our office in Rohmoser. Full-time employees receive a salary and are provided company equipment to use for coding work. Guidance, support, and community are provided, but the learning process will be highly self-directed. If that sounds exciting to you this opportunity might be a great fit!
 
-## Part-Time Internships with Datagrove Costa Rica
+<h2 id="internships">Part-Time Internships with Datagrove Costa Rica</h2>
 
 The Datagrove Costa Rica hires university students studying computer science in Costa Rica as part-time Trainee Developers. Beginners with a passion for coding are welcome!
 
@@ -25,7 +26,7 @@ You will also get practice with English, which for better or worse is the trade 
 
 _Trainee Developer positions are currently limited to students who have been accepted to a university Computer Science program (or similar) in Costa Rica._
 
-## Application Process
+<h2 id="application">Application Process</h2>
 
 1. <strong>Trainee Developer Internship Applicants - Be accepted to or enrolled in a university Computer Science program (or similar).</strong>
     <br />
