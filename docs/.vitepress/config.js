@@ -15,7 +15,7 @@ export default defineConfig({
                 text: 'Join Us', 
                 items: [
                     { text: "Full-Time Positions", link: '/jobs/' },
-                    { text: "Internships", link: '/jobs/' },
+                    { text: "Part-Time Positions", link: '/jobs/' },
                 ],
             },
         ],
