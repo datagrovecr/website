@@ -32,7 +32,7 @@ Our partner, [Datagrove US](https://datagrove.com/), supports the Datagrove Cost
 </div>
 
 
-<div class="staff-bio">
+<!-- <div class="staff-bio">
 
 <div class="table-col-one"><img src="/cd.jpeg" alt="Chelsea Dozier" class="team-photo"/>
 </div>
@@ -41,10 +41,10 @@ Our partner, [Datagrove US](https://datagrove.com/), supports the Datagrove Cost
 <h5><a href="mailto:chelsea.dozier@datagrove.com">Chelsea Dozier</a>, Office Manager</h5><p>Chelsea is an out-of-the-box thinker, passionate about empowering people and discovering innovative, creative solutions. She manages business operations and the Datagrove Costa Rica Internship Program.</p>
 </div>
 
-</div>
+</div> -->
 
 
-<div class="staff-bio">
+<!-- <div class="staff-bio">
 
 <div class="table-col-one"><img src="/Mario.jpg" alt="Mario Araya" class="team-photo"/>
 </div>
@@ -53,7 +53,7 @@ Our partner, [Datagrove US](https://datagrove.com/), supports the Datagrove Cost
 <h5><a href="mailto:mario.araya@datagrove.com">Mario Araya</a>, Junior Developer</h5><p>Mario received a degree in mechanical engineering from Tecnológico de Costa Rica and is looking forward to learning new skills, improving curriculum, and using his abilities to do something meaningful. He is passionate about using technology to improve the processes of public institutions and allow Costa Ricans more time for rest, family, and entertainment.</p>
 </div>
 
-</div>
+</div> -->
 
 
 <div class="staff-bio">
@@ -62,7 +62,18 @@ Our partner, [Datagrove US](https://datagrove.com/), supports the Datagrove Cost
 </div>
 
 <div class="table-col-two">
-<h5><a href="mailto:raquel.abarca@datagrove.com">Raquel Abarca Espinoza</a>, Trainee Developer</h5><p>Raquel is studying computer engineering at Universidad Hispanoamericana. She is looking forward to learning a lot about software and making an impact for good for the community, like making software for community help or increasing access to psychological services. Raquel is inspired by a former teacher's quote: "Any software you can think of, you can create it!"</p>
+<h5><a href="mailto:raquel.abarca@datagrove.com">Raquel Abarca Espinoza</a>, Student Developer</h5><p>Raquel is studying computer engineering at Universidad Hispanoamericana. She is looking forward to learning a lot about software and making an impact for good for the community, like making software for community help or increasing access to psychological services. Raquel is inspired by a former teacher's quote: "Any software you can think of, you can create it!"</p>
+</div>
+
+</div>
+
+<div class="staff-bio">
+
+<div class="table-col-one"><img src="/jafet.png" alt="Jafet" class="team-photo"/>
+</div>
+
+<div class="table-col-two">
+<h5><a href="mailto:jafet.rodriguez@datagrove.com">Jafet Rodriguez</a>, Junior Developer</h5><p></p>
 </div>
 
 </div>
@@ -86,11 +97,16 @@ Our partner, [Datagrove US](https://datagrove.com/), supports the Datagrove Cost
 </div>
 
 <div class="table-col-two">
-<h5><a href="mailto:andres.villalobos@datagrove.com">Andrés Villalobos</a>, Trainee Developer</h5><p>Andrés is pursuing a technical degree in software engineering from Universidad Cenfotec. He joined the Datagrove Costa Rica team to learn a variety of different skills, and also because he believes in the company's mission to make software engineering accessible to anyone. Andrés sees the potential for technology to modernize processes, and close gaps in education and for small businesses.</p>
+<h5><a href="mailto:andres.villalobos@datagrove.com">Andrés Villalobos</a>, Student Developer</h5><p>Andrés is pursuing a technical degree in software engineering from Universidad Cenfotec. He joined the Datagrove Costa Rica team to learn a variety of different skills, and also because he believes in the company's mission to make software engineering accessible to anyone. Andrés sees the potential for technology to modernize processes, and close gaps in education and for small businesses.</p>
 </div>
 
 </div>
 
+
+
+
 </div>
+
+
 
 </div>
